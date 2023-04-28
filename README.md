@@ -1,6 +1,8 @@
 # CB-DS-Capstone_Project
 Capstone Project for Data Science Bootcamp
 
+Community Learning and Network Analysis of Cancer Metabolites
+
 Metabolomics is the study of small molecules, known as metabolites, that are present in a biological specimen, such as a cell, tissue, organism or biofluids. These metabolites include amino acids, lipids, sugars, and other molecules that are involved in many different biological pathways.
 Metabolomics aim to analyze and understand the metabolic state of a biological component at a biochemical level by identifying and quantifying the metabolites present in a sample. This can provide insights into the underlying biochemical processes, as well as the effects of environmental and genetic factors on metabolism.
 
